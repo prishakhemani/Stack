@@ -1,0 +1,2 @@
+# Stack
+Linear data structure
